@@ -1,18 +1,22 @@
+# Hi there 👋 
 <div style="display: flex; align-items: center;">
   <img align="left" src="https://github.com/ProHaller/prohaller/blob/master/assets/kanikaze-logo.png" width="180" style="margin-right: 20px;"/>
 
   <div>
 
-# Hi there 👋 I’m Roland Haller | Kanikaze🦀💨 | 晴
+### I’m Roland Haller aka Kanikaze🦀💨 or 晴 in Japan
 
-- Creative Director in [Tsunagaru Inc](https://www.tsunagaru.co.jp/)
-- Software Engineer specializing in **Rust, Terminal UIs, and AI agentic workflows**.
+- Working as a Creative Director in [Tsunagaru Inc](https://www.tsunagaru.co.jp/)
+- Training as a Software Engineer specializing in **Rust, Terminal UIs, and AI agentic workflows**.
 
-I build immersive text-based games & tools for fun and profit.  
+I build games & tools for fun and profit.
 Based in Fukuoka, Japan for now / working remotely.
-
+<br>
+<br>
   </div>
 </div>
+
+
 
 ## 🚀 What I’m Building
 
