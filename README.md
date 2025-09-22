@@ -1,4 +1,4 @@
-<img align="left" src="@/assets/Kanikaze-logo.svg">
+<img align="left" src="assets/Kanikaze-logo.png">
 
 # Hi there 👋 I’m Roland Haller | Kanikaze🦀💨 | 晴
 
@@ -38,13 +38,9 @@ A terminal RPG inspired by _Shadowrun_, where the Game Master is driven by AI.
 
 ![prohaller's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prohaller&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 
-<br>
 ![prohaller's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prohaller&theme=nightowl&hide_border=false)
 
-<br>
 ![prohaller's Stats](https://github-readme-stats.vercel.app/api?username=prohaller&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
-o
-<br>
 
 ## 🔧 Technical Skills & Tools
 
