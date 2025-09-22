@@ -1,4 +1,4 @@
-<img align="left" src="assets/Kanikaze-logo.png">
+<img align="left" src="https://github.com/ProHaller/prohaller/blob/master/assets/kanikaze-logo.png">
 
 # Hi there 👋 I’m Roland Haller | Kanikaze🦀💨 | 晴
 
