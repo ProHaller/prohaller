@@ -1,9 +1,7 @@
-<table>
-  <tr>
-    <td width="30%">
-      <img src="https://github.com/ProHaller/prohaller/blob/master/assets/kanikaze-logo.png" width="100%">
-    </td>
-    <td>
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/ProHaller/prohaller/blob/master/assets/kanikaze-logo.png" width="180" style="margin-right: 20px;"/>
+
+  <div>
 
 # Hi there 👋 I’m Roland Haller | Kanikaze🦀💨 | 晴
 
@@ -13,10 +11,8 @@
 I build immersive text-based games & tools for fun and profit.  
 Based in Fukuoka, Japan for now / working remotely.
 
-    </td>
-
-  </tr>
-</table>
+  </div>
+</div>
 
 ## 🚀 What I’m Building
 
