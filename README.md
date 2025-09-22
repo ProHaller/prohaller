@@ -41,11 +41,10 @@ A terminal RPG inspired by _Shadowrun_, where the Game Master is driven by AI.
 
 ---
 
-![prohaller's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prohaller&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prohaller&theme=nightowl&show_icons=true&hide_border=false&layout=compact" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prohaller&theme=nightowl&show_icons=true&hide_border=false&count_private=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prohaller&theme=nightowl&hide_border=false" height="180"/>
 
-![prohaller's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prohaller&theme=nightowl&hide_border=false)
-
-![prohaller's Stats](https://github-readme-stats.vercel.app/api?username=prohaller&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
 
 ## 🔧 Technical Skills & Tools
 
