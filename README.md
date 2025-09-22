@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/ProHaller/prohaller/blob/master/assets/kanikaze-logo.png" width="180" style="margin-right: 20px;"/>
+  <img align="left" src="https://github.com/ProHaller/prohaller/blob/master/assets/kanikaze-logo.png" width="180" style="margin-right: 20px;"/>
 
   <div>
 
