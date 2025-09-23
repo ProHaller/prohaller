@@ -10,7 +10,10 @@
 - Training as a Software Engineer specializing in **Rust, Terminal UIs, and AI agentic workflows**.
 
 I build games & tools for fun and profit.
+
 Based in Fukuoka, Japan for now / working remotely.
+<br>
+<br>
 <br>
 <br>
   </div>
